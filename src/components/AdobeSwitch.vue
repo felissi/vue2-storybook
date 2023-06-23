@@ -145,8 +145,8 @@ export default {
     --circle-border-color: #cacaca;
   }
   .switch-input:checked:disabled + & {
-    --switch-on-bg: #cacaca;
-    --circle-on-border-color: #cacaca;
+    --switch-on-bg: hsl(213,60%,89%);
+    --circle-on-border-color: hsl(213,60%,89%);
   }
 }
 
